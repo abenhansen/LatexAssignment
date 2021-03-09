@@ -1,11 +1,11 @@
 # LatexAssignment
 
 ## Task 1 - Bachelor Requirements
-[CODE](LatexAssignmentPartOne.tex)
+[CODE](Part One/LatexAssignmentPartOne.tex)
 <br/>
-[PDF](LatexAssignmentPartOne.pdf)
+[PDF](Part One/LatexAssignmentPartOne.pdf)
 
 ## Task 2 - Latex Template
-[Code](LatexAssigmentPartTwo.tex)
+[Code](Part Two/LatexAssigmentPartTwo.tex)
 <br/>
-[PDF](LatexAssigmentPartTwo.pdf)
+[PDF](Part Two/LatexAssigmentPartTwo.pdf)
